@@ -1,5 +1,5 @@
 describe "smallest hash value" do
-
+  key_for_min_value {"names"
   it "does not call the `#keys` method" do
     hash = {:blake => 500, :ashley => 2, :adam => 1}
 
